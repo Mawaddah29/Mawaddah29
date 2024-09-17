@@ -2,10 +2,8 @@
 
 **Mawaddah29/Mawaddah29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m working on evolving  myself 
 - 🌱 I’m currently learning programming 
 - 📫 How to reach me: Maalagha@effat.edu.sa
-- ⚡ Fun fact: i love fruits 🍉 🍓 🫐🍇🥑
+  
 
